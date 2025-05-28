@@ -1,5 +1,5 @@
 
-# Multi AI-AgentIC Chatbot
+# Multi AI-Agentic Chatbot
 
 This project implements a multi-agent chatbot system that can learn from web sources and answer questions based on that knowledge.
 
